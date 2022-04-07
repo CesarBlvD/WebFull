@@ -1,0 +1,15 @@
+:root{
+    --gris: #656565;
+    --negro: #000000;
+    --blanco: #ffffff;
+    --primario: #b8dfe6;
+    --letra: ;
+    
+
+}html{
+    box-sizing: border-box;
+    font-size: 62.5%; /*1 rem = 10px*/
+}
+*,*:before,*:after{
+    box-sizing: inherit;
+}
